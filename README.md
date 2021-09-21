@@ -2,6 +2,8 @@
 
 Overview of the analysis: Analysis on NYC city bike data
 
+link for Tableau 
+https://public.tableau.com/views/NYCbikesdatavisuals-201908/CheckoutTimesbyUser?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Explain the purpose of this analysis: The purpose of this analysis is to discover answers to different questions like ‘what days of the week are most rides taken on? ’Which gender rides more?’ and many more..
 
